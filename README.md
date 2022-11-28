@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CiscoFisk
-- 👀 I’m interested in ... Learning python,C, JavaScript and Java etc 
+- 👀 I’m interested in ... Learning python, C, JavaScript and Java etc 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
